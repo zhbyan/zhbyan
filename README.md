@@ -1,6 +1,8 @@
-heloo every one!! 👋 i am Zhahiran Abyan Muhsin | 🎓 now is taking S1 Informatics Engineering in Semarang State University 💻
+heloo every one!!
 -
--
+
+-👋 i am Zhahiran Abyan Muhsin | 🎓 now is taking S1 Informatics Engineering in Semarang State University 💻
+
 - 👋 Hi, I’m @zhbyan
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning C++ and python 
