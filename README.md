@@ -1,8 +1,11 @@
+heloo every one!! 👋 i am Zhahiran Abyan Muhsin | 🎓 now is taking S1 Informatics Engineering in Semarang State University 💻
+-
+-
 - 👋 Hi, I’m @zhbyan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning CSS and python 
+- 👀 I’m interested in computer science
+- 🌱 I’m currently learning C++ and python 
 - 💞️ I’m looking to collaborate on Web development 
-- 📫 How to reach me ...
+- 📫 How to reach me 
 
 <!---
 zhbyan/zhbyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
