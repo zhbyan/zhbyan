@@ -1,7 +1,7 @@
 heloo every one!!👋
 -
 
-- my name is Zhahiran Abyan Muhsin | 🎓 now i am taking S1 Informatics Engineering in Semarang State University 💻
+- my name is Zhahiran Abyan Muhsin but you can call me byan | 🎓 now i am taking S1 Informatics Engineering in Semarang State University 💻
 
 - 👋 Hi, I’m @zhbyan
 - 👀 I’m interested in computer science
